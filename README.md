@@ -1,6 +1,7 @@
 
-### Hi there, I'm [Monte!](https://github.com/Monte4952/) 👋
+### Hi there, I'm [Pro Dev!](https://github.com/Monte4952/) 👋
 
+#<h2>About Me</h2>
 <p>I am a full-stack engineer with over 10 years of experience in web development, managing all aspects of the development process.<br>
 I am worked on 30+ projects and solved complex business problems in various industries including healthcare, car service, eCommerce, real estate, and Amazon.<br><br>
 - <strong>Laravel</strong> / CodeIgniter / PHP<br>
