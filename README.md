@@ -14,7 +14,7 @@ I am worked on 30+ projects and solved complex business problems in various indu
 - React/Vue/Angluar/BootStrap<br>  
 - <strong>WebScraping</strong> / Django / Flask / Python<br>
   </p><br><br>
-<a href="https://github.com/Monte4952/">
+<a href="https://github.com/Monte4952?tab=repositories">
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=monte4952&show_icons=true&include_all_commits=true&theme=material-palenight" alt="Anurag's github stats" />
 </a><br><br>
 <a href="https://github.com/Monte4952/">
