@@ -1,17 +1,15 @@
 
-### Hi there, I'm [Senior Engineer!](https://github.com/Monte4952/) 👋
-
 <h2>About Me</h2>
 <p>I am a full-stack engineer with over 10 years of experience in web development, managing all aspects of the development process.<br>
 I am worked on 30+ projects and solved complex business problems in various industries including healthcare, car service, eCommerce, real estate, and Amazon.<br><br>
-- <strong>Laravel</strong> / CodeIgniter / PHP<br>
 - <strong>ASP.Net</strong> / MVC / Mobile Back-End / RazorPage / Blazor<br>
+- <strong>Laravel</strong> / CodeIgniter / PHP<br>
+- React/Vue/Angluar/BootStrap<br>  
 - <strong>Github</strong> / <strong>Docker</strong> / GitLub / BitBucket<br>
 - <strong>MWS</strong> / E-commerce( Dropshipping ) / Ebay Api/ Walmart Api<br>
 - <strong>Azure</strong> / AWS<br>
 - <strong>SQL Server(T-SQL)</strong> / PostgreSql / MySql<br>
 - <strong>WordPress</strong> / <strong>Woocommerce </strong>/ WebDesign (Elementor,Divi etc)<br>
-- React/Vue/Angluar/BootStrap<br>  
 - <strong>WebScraping</strong> / Django / Flask / Python<br>
   </p><br><br>
 <a href="https://github.com/Monte4952?tab=repositories">
