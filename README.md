@@ -13,12 +13,12 @@ I am worked on 30+ projects and solved complex business problems in various indu
 - <strong>WebScraping</strong> / Django / Flask / Python<br>
 - <strong>ASP.Net</strong> / MVC / Mobile Back-End / RazorPage / Blazor<br>
   </p><br><br>
-<a href="https://github.com/Monte4952?tab=repositories">
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=monte4952&show_icons=true&include_all_commits=true&theme=material-palenight" alt="Anurag's github stats" />
+<a href="https://github.com/devops1107?tab=repositories">
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=devops1107&show_icons=true&include_all_commits=true&theme=material-palenight" alt="Anurag's github stats" />
 </a><br><br>
-<a href="https://github.com/Monte4952/">
+<a href="https://github.com/devops1107/">
   <!-- Change the `github-readme-stats.vercel.app` to `github-readme-stats.vercel.app`  -->
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=monte4952&layout=compact&theme=material-palenight" />
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devops1107&layout=compact&theme=material-palenight" />
 </a><br><br>
 
 <h2>Feel free to contact me!</h3>
