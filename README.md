@@ -2,7 +2,7 @@
 <h2>About Me</h2>
 <p>I am a full-stack engineer with over 10 years of experience in web development, managing all aspects of the development process.<br>
 I am worked on 30+ projects and solved complex business problems in various industries including healthcare, car service, eCommerce, real estate, and Amazon.<br><br>
-- <strong>ASP.Net</strong> / MVC / Mobile Back-End / RazorPage / Blazor<br>
+
 - <strong>Laravel</strong> / CodeIgniter / PHP<br>
 - React/Vue/Angluar/BootStrap<br>  
 - <strong>Github</strong> / <strong>Docker</strong> / GitLub / BitBucket<br>
@@ -11,6 +11,7 @@ I am worked on 30+ projects and solved complex business problems in various indu
 - <strong>SQL Server(T-SQL)</strong> / PostgreSql / MySql<br>
 - <strong>WordPress</strong> / <strong>Woocommerce </strong>/ WebDesign (Elementor,Divi etc)<br>
 - <strong>WebScraping</strong> / Django / Flask / Python<br>
+- <strong>ASP.Net</strong> / MVC / Mobile Back-End / RazorPage / Blazor<br>
   </p><br><br>
 <a href="https://github.com/Monte4952?tab=repositories">
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=monte4952&show_icons=true&include_all_commits=true&theme=material-palenight" alt="Anurag's github stats" />
